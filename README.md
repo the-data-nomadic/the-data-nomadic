@@ -16,7 +16,7 @@
       </p>
     </td>
     <td>
-      <img src="https://github.com/the-data-nomadic/DATA-NOMADIC/blob/main/p.png" alt="Illustration" width="500"/>
+      <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/p.png" alt="Illustration" width="500"/>
     </td>
   </tr>
 </table>
