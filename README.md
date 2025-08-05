@@ -37,7 +37,7 @@
       </p>
     </td>
     <td>
-      <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/datacamp_quest_path.png" alt="Data Nomadic Learning Path" width="450"/>
+      <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/2.png" alt="Data Nomadic Learning Path" width="550"/>
     </td>
   </tr>
 </table>
