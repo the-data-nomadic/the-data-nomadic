@@ -37,7 +37,7 @@
       </p>
     </td>
     <td>
-      <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/2.png" alt="Data Nomadic Learning Path" width="550"/>
+      <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/2.png" alt="Data Nomadic Learning Path" width="650"/>
     </td>
   </tr>
 </table>
