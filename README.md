@@ -23,7 +23,7 @@
 
 <div align="center">
 
-  <h1>📚 Current Challenge: DataCamp Quest</h1>
+  <h1>📚 Current Challenge: Certification Quest</h1>
 
 </div>
 
@@ -32,8 +32,9 @@
     <td style="vertical-align: top; padding-right: 20px;">
       <h2>🚀 Why This Challenge?</h2>
       <p>
-        I'm currently diving into the <strong>DataCamp Quest</strong> a curated set of challenges designed to sharpen my data skills across exploration, engineering, and automation.<br/><br/>
-        Each project reflects a real learning moment, and I'm documenting it publicly to stay accountable and invite others to learn with me.
+        Welcome to my learning playground—where curiosity leads, and credentials follow. First milestone unlocked: 🏅 Data Engineer Associate Certificate from DataCamp.<br/><br/>
+        Next up: I’m chasing the clouds—literally. My second goal is to pass <strong> the Oracle Cloud Infrastructure (OCI) </strong>strong> certification and turn cloud architecture into a storybook           of strategy and swagger.<br/><br/>
+        Because learning isn’t a punishment it’s a power move. ☁️💡📖
       </p>
     </td>
     <td>
@@ -43,38 +44,25 @@
 </table>
 
 ---
+### 🗺️ Follow the Journey
 
-### 🧩 Challenge Milestones
-
-#### 🔍 Exploration & Essentials
-- ✅ Investigating Netflix Movies
-- ✅ Analyzing Students’ Mental Health
-- 🔄 Dr. Semmelweis and Handwashing
-- 🔄 Golden Age of Video Games
-- 🔄 Exploring NYC School Test Results
-- 🔄 Evolution of Linux
-- 🔄 Mental Health in Tech
-
-#### 🛠️ Engineering Workflows
-- 🔄 Cleaning Bank Marketing Data
-- 🔄 Airbnb Market Trends
-- 🔄 Predictive Modeling for Agriculture
-- 🔄 Retail Data Pipeline
-- 🔄 Cleaning US Census Data
-- 🔄 Employee Exit Surveys
-- 🔄 Medical Data Analysis
-
-#### ⚙️ Automation & Scale
-- 🔄 Building a Data Warehouse
-- 🔄 Streaming Data Engineering
-- 🔄 Retail Pipeline (extended)
-- 🔄 Unicorn Company Analysis
-- 🔄 Customer Churn Prediction
-- 🔄 ML Model Building
+I’m documenting every step to stay accountable and invite others to learn with me.<br/>
+Each challenge sharpens my workflow, strengthens my documentation, and scales my pipeline-building mindset.<br/><br/>
+Feel free to fork if you're on a similar path. Let’s build in public, learn in community, and celebrate every milestone.
 
 ---
 
-### 🗺️ Follow the Journey
+### 🏁 Join the Race
 
-Each challenge is a step toward mastering reproducible workflows, clean documentation, and scalable pipelines.  
-Feel free to fork, explore, or reach out if you're on a similar path!
+🚨 <strong>Bonus Alert:</strong> The <a href="https://education.oracle.com/race-to-certification-2025?path=afterActivation">OCI Exam is free until October 31, 2025</a> thanks to Oracle’s <em>Race to Certification 2025</em>.<br/>
+You’ll get:
+<ul>
+  <li>✅ 2 free exam attempts</li>
+  <li>📚 Access to digital training</li>
+  <li>🏆 Leaderboard rewards and recognition</li>
+</ul>
+
+Whether you're chasing AI, Multicloud, or Data credentials—this is your moment.<br/>
+Pick your path. Join the race. Let’s level up together. ☁️🔥
+
+---
