@@ -47,7 +47,7 @@
 ### 🗺️ Follow the Journey
 
 I’m documenting every step to stay accountable and invite others to learn with me.<br/>
-Each challenge sharpens my workflow, strengthens my documentation, and scales my pipeline-building mindset.<br/><br/>
+Each challenge sharpens my workflow, strengthens my documentation, and scales my mindset.<br/><br/>
 Feel free to fork if you're on a similar path. Let’s build in public, learn in community, and celebrate every milestone.
 
 ---
@@ -62,7 +62,7 @@ You’ll get:
   <li>🏆 Leaderboard rewards and recognition</li>
 </ul>
 
-Whether you're chasing AI, Multicloud, or Data credentials—this is your moment.<br/>
+Whether you're chasing AI, Multicloud, or Data credentials ,this is your moment.<br/>
 Pick your path. Join the race. Let’s level up together. ☁️🔥
 
 ---
