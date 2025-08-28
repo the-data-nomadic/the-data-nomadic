@@ -60,12 +60,11 @@ Whether you're chasing AI, Multicloud, or Data credentials ,this is your moment.
 Pick your path. Join the race. Let’s level up together🚀.
 
 ---
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <h2>Unlocked Acheivements🔥 </h2>
-    <td>
-      <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/3.png" alt="Data Nomadic Learning Path" width="750"/>
-    </td>
-  </tr>
-</table>
+ <div class="container">
+    <h2>Unlocked Achievements 🔥</h2>
+    <div class="images">
+      <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/1.avif" alt="Achievement 1"  style="width: 150px; height: auto;"  />
+      <!-- Add more images below if needed -->
+      <!-- <img src="..."/> -->
+    </div>
+  </div>
