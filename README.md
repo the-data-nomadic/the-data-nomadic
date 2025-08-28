@@ -63,6 +63,6 @@ Pick your path. Join the race. Let’s level up together🚀.
     <h2>Unlocked Achievements 🔥</h2>
     <div class="images">
       <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/1.avif" alt="Achievement 1"  style="width: 150px; height: auto;"  />
-    <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/2.png" alt="Achievement 1"  style="width: 400px; height: auto;"  />
+    <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/2.png" alt="Achievement 1"  style="width: 350px; height: auto;"  />
     </div>
   </div>
