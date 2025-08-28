@@ -32,23 +32,17 @@
     <td style="vertical-align: top; padding-right: 20px;">
       <h2>🚀 Why This Challenge?</h2>
       <p>
-        Welcome to my learning playground—where curiosity leads, and credentials follow. First milestone unlocked: 🏅 Data Engineer Associate Certificate from DataCamp.<br/><br/>
-        Next up: I’m chasing the clouds—literally. My second goal is to pass <strong> the Oracle Cloud Infrastructure (OCI) </strong>strong> certification and turn cloud architecture into a storybook           of strategy and swagger.<br/><br/>
-        Because learning isn’t a punishment it’s a power move. ☁️💡📖
-      </p>
+        Welcome to my learning playground where curiosity leads, and credentials follow.<br/><br/>
+        Because learning isn’t a punishment it’s a power move.💡
+I’m documenting every step to stay accountable and invite others to learn with me.<br/>
+Each challenge sharpens my workflow, strengthens my documentation, and scales my mindset.<br/><br/>
+Feel free to fork if you're on a similar path. Let’s build in public, learn in community, and celebrate every milestone📖.
     </td>
     <td>
       <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/3.png" alt="Data Nomadic Learning Path" width="750"/>
     </td>
   </tr>
 </table>
-
----
-### 🗺️ Follow the Journey
-
-I’m documenting every step to stay accountable and invite others to learn with me.<br/>
-Each challenge sharpens my workflow, strengthens my documentation, and scales my mindset.<br/><br/>
-Feel free to fork if you're on a similar path. Let’s build in public, learn in community, and celebrate every milestone.
 
 ---
 
@@ -63,6 +57,15 @@ You’ll get:
 </ul>
 
 Whether you're chasing AI, Multicloud, or Data credentials ,this is your moment.<br/>
-Pick your path. Join the race. Let’s level up together. ☁️🔥
+Pick your path. Join the race. Let’s level up together🚀.
 
 ---
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <h2>Unlocked Acheivements🔥 </h2>
+    <td>
+      <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/3.png" alt="Data Nomadic Learning Path" width="750"/>
+    </td>
+  </tr>
+</table>
