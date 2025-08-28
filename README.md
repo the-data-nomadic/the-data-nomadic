@@ -31,15 +31,14 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <h2>🚀 Why This Challenge?</h2>
-      <p>
-        Welcome to my learning playground where curiosity leads, and credentials follow.<br/><br/>
-        Because learning isn’t a punishment it’s a power move.💡
-I’m documenting every step to stay accountable and invite others to learn with me.<br/>
-Each challenge sharpens my workflow, strengthens my documentation, and scales my mindset.<br/><br/>
-Feel free to fork if you're on a similar path. Let’s build in public, learn in community, and celebrate every milestone📖.
+    <p>
+  Learning isn’t a chore; it’s a strategic advantage. 💡 I’m documenting every step to stay accountable and invite others to grow alongside me.<br />
+  Each challenge refines my workflow, strengthens my documentation, and expands my mindset. Feel free to fork if you're on a similar path.<br />
+  Let’s build in public, learn together, and celebrate every milestone. 📖
+</p>
     </td>
     <td>
-      <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/3.png" alt="Data Nomadic Learning Path" width="750"/>
+      <img src="https://github.com/the-data-nomadic/the-data-nomadic/blob/main/3.png" alt="Data Nomadic Learning Path" width="550"/>
     </td>
   </tr>
 </table>
